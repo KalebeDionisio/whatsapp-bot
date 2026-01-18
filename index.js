@@ -267,7 +267,4 @@ loadSettings().then(() => {
     console.log('[INIT] Iniciando cliente WhatsApp...');
     client.initialize();
 });
-3
-Execute o Bot
-No terminal do seu servidor
 
